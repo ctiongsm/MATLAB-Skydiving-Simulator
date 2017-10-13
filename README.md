@@ -1,8 +1,15 @@
 # MATLAB-Skydiving-Simulator
-Simualtor to be run on MATLAB program. Input user variables and a skydive free fall jump will be calculated in three dimensions
+SIMULATOR IS TO BE RUN ON MATLAB programs. Convert code to MATLAB compiler to test and use
 
--Convert code to MATLAB compiler to test and use
--Input user variables when promted
--Jump will be analytically and grpahically calculated
--Average skydive height=15000 ft
--% = comments
+ -Goal: Input user variables and calculate a unique freefall in three dimensions
+
+-Steps:
+  1. Input user variables when prompted (i.e. weight, height, desired jump height)
+  2. Jump will be analytically and grahically calculated
+  3. Click/ enter point when you want to deploy parachute
+  4. Program will continue to analyze and graph free fall
+  5. Output jump distance and time
+  
+-Notes:
+-Average skydive height=15000 ft (input)
+- % = comments
